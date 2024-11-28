@@ -25,7 +25,7 @@ specifiers:
   react-dom: 18.2.0
   react-icons: 4.7.1
   react-syntax-highlighter: 15.5.0
-  stripe: 11.5.0
+  stripe: 11.7.0
   typescript: 4.9.4
   typewriter-effect: 2.19.0
 
@@ -48,7 +48,7 @@ dependencies:
   react-dom: 18.2.0_react@18.2.0
   react-icons: 4.7.1_react@18.2.0
   react-syntax-highlighter: 15.5.0_react@18.2.0
-  stripe: 11.5.0
+  stripe: 11.7.0
   typewriter-effect: 2.19.0_biqbaboplfbrettd7655fr4n2y
 
 devDependencies:
@@ -4407,8 +4407,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /stripe/11.5.0:
-    resolution: {integrity: sha512-yjTqnzeUk2wg1yIeYWOAH6CL5qu9fINzOhqkibXfbyeWSBEBauQrfCoB8shMmREoK2qdkScz1HjahF9qUg+X3g==}
+  /stripe/11.7.0:
+    resolution: {integrity: sha512-xpOc+ZD2IHx+e4wdo6zuZ1zZA5b894CyESH5sFrQ4RkMH+h6i9ybf6iDwxsV3TW403ab6SyA2BU9vZTOUPQcDQ==}
     engines: {node: '>=12.*'}
     dependencies:
       '@types/node': 18.11.18

@@ -26,7 +26,7 @@
     "react-dom": "18.2.0",
     "react-icons": "4.7.1",
     "react-syntax-highlighter": "15.5.0",
-    "stripe": "11.5.0",
+    "stripe": "11.7.0",
     "typewriter-effect": "2.19.0"
   },
   "devDependencies": {
